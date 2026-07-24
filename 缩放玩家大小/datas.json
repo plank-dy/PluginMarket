@@ -1,0 +1,11 @@
+{
+  "plugin-id": "player_model_scale",
+  "author": "plank",
+  "version": "0.0.1",
+  "description": "玩家体型缩放插件，可指令调整玩家模型大小，支持巨人、迷你小人，仅OP可用，进服自动重置体型",
+  "plugin-type": "classic",
+  "pre-plugins": {
+    "前置-世界交互": "0.0.2",
+    "管理员白名单": "0.0.1"
+  }
+}
